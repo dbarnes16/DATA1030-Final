@@ -9,11 +9,11 @@ The project was built on Python 3.11.4 and repository organization as follows
 5. src/ - All of the code for: data importing, EDA; group based splitting, preprocessing and model development; model evaluations, result visualizations and feature importances in IMU_Final_Project.ipynb
 
    
-Key packages used in this project are the following:
-'numpy': "1.24.4"
-'matplotlib': "3.7.2"
-'sklearn': "1.3.0"
-'pandas': "2.0.3"
-'xgboost': "1.7.6" 
-'shap': "0.42.1"
-'seaborn': "0.12.2"
+- Key packages used in this project are the following:
+- 'numpy': "1.24.4"
+- 'matplotlib': "3.7.2"
+- 'sklearn': "1.3.0"
+- 'pandas': "2.0.3"
+- 'xgboost': "1.7.6" 
+- 'shap': "0.42.1"
+- 'seaborn': "0.12.2"
